@@ -1,0 +1,350 @@
+msgid ""
+msgstr ""
+
+msgid "Enable/Disable:"
+msgstr "Enable/Disable:"
+
+msgid "Enable "
+msgstr "Enable "
+
+msgid "Module Options"
+msgstr "Module Options"
+
+msgid "The following options affect how the "
+msgstr "The following options affect how the "
+
+msgid " Module is displayed on the frontend."
+msgstr " Module is displayed on the frontend."
+
+msgid "Title:"
+msgstr "Title:"
+
+msgid "This controls the title which the customer sees during checkout."
+msgstr "This controls the title which the customer sees during checkout."
+
+msgid "Description:"
+msgstr "Description:"
+
+msgid "This controls the description which the customer sees during checkout."
+msgstr "This controls the description which the customer sees during checkout."
+
+msgid "Pay securely by Credit or Debit card through "
+msgstr "Pay securely by Credit or Debit card through "
+
+msgid "Order Prefix:"
+msgstr "Order Prefix:"
+
+msgid "This is the order prefix that you will see in the MMS."
+msgstr "This is the order prefix that you will see in the MMS."
+
+msgid "Gateway Settings"
+msgstr "Gateway Settings"
+
+msgid "These are the gateway settings to allow you to connect with the Paymentsense gateway. (These are not the details used to login to the MMS)"
+msgstr "These are the gateway settings to allow you to connect with the Paymentsense gateway. (These are not the details used to login to the MMS)"
+
+msgid "Gateway MerchantID:"
+msgstr "Gateway MerchantID:"
+
+msgid "This is the gateway MerchantID not used with the MMS login. The Format should match the following ABCDEF-1234567"
+msgstr "This is the gateway MerchantID not used with the MMS login. The Format should match the following ABCDEF-1234567"
+
+msgid "Gateway Password:"
+msgstr "Gateway Password:"
+
+msgid "This is the gateway Password not used with the MMS login. The Password should use lower case and uppercase letters, and numbers only."
+msgstr "This is the gateway Password not used with the MMS login. The Password should use lower case and uppercase letters, and numbers only."
+
+msgid "Gateway PreSharedKey:"
+msgstr "Gateway PreSharedKey:"
+
+msgid "This is located within the MMS under \"Account Admin Settings\" > \"Account Settings\"."
+msgstr "This is located within the MMS under \"Account Admin Settings\" > \"Account Settings\"."
+
+msgid "Gateway Hash Method:"
+msgstr "Gateway Hash Method:"
+
+msgid "This is the hash method set in MMS under \"Account Admin\" > \"Account Settings\". By default, this will be SHA1."
+msgstr "This is the hash method set in MMS under \"Account Admin\" > \"Account Settings\". By default, this will be SHA1."
+
+msgid "Transaction Type:"
+msgstr "Transaction Type:"
+
+msgid "If you wish to obtain authorisation for the payment only, as you intend to manually collect the payment via the MMS, choose Pre-auth."
+msgstr "If you wish to obtain authorization for the payment only, as you intend to manually collect the payment via the MMS, choose Pre-auth."
+
+msgid "Sale"
+msgstr "Sale"
+
+msgid "Pre-Auth"
+msgstr "Pre-Auth"
+
+msgid "Result Delivery Method:"
+msgstr "Result Delivery Method:"
+
+msgid "The Server Result Method determines how the transaction results are delivered back to the WooCommerce store."
+msgstr "The Server Result Method determines how the transaction results are delivered back to the WooCommerce store."
+
+msgid "Accept American Express?"
+msgstr "Accept American Express?"
+
+msgid "Tick only if you have an American Express MID associated with your Paymentsense gateway account."
+msgstr "Tick only if you have an American Express MID associated with your Paymentsense gateway account."
+
+msgid "Payment Form Additional Field"
+msgstr "Payment Form Additional Field"
+
+msgid "These options allow the customer to change the email address and phone number on the payment form."
+msgstr "These options allow the customer to change the email address and phone number on the payment form."
+
+msgid "Email Address can be altered on payment form:"
+msgstr "Email Address can be altered on payment form:"
+
+msgid "This option allows the customer to change the email address that entered during checkout. By default the Paymentsense module will pass the customers email address that they entered during checkout."
+msgstr "This option allows the customer to change the email address that entered during checkout. By default the Paymentsense module will pass the customers email address that they entered during checkout."
+
+msgid "Yes"
+msgstr "Yes"
+
+msgid "No"
+msgstr "No"
+
+msgid "Phone Number can be altered on payment form:"
+msgstr "Phone Number can be altered on payment form:"
+
+msgid "This option allows the customer to change the phone number that entered during checkout. By default the Paymentsense module will pass the customers phone number that they entered during checkout."
+msgstr "This option allows the customer to change the phone number that entered during checkout. By default the Paymentsense module will pass the customers phone number that they entered during checkout."
+
+msgid "Payment Form Mandatory Fields"
+msgstr "Payment Form Mandatory Fields"
+
+msgid "These options allow you to change what fields are mandatory for the customers to complete on the payment form. (The default settings are recommended by Paymentsense)"
+msgstr "These options allow you to change what fields are mandatory for the customers to complete on the payment form. (The default settings are recommended by Paymentsense)"
+
+msgid "Address Line 1 Mandatory:"
+msgstr "Address Line 1 Mandatory:"
+
+msgid "Define the Address Line 1 as a Mandatory field on the Payment form. This is used for the Address Verification System (AVS) check on the customers card. Recommended Setting \"Yes\"."
+msgstr "Define the Address Line 1 as a Mandatory field on the Payment form. This is used for the Address Verification System (AVS) check on the customers card. Recommended Setting \"Yes\"."
+
+msgid "City Mandatory:"
+msgstr "City Mandatory:"
+
+msgid "Define the City as a Mandatory field on the Payment form."
+msgstr "Define the City as a Mandatory field on the Payment form."
+
+msgid "State/County Mandatory:"
+msgstr "State/County Mandatory:"
+
+msgid "Define the State/County as a Mandatory field on the Payment form."
+msgstr "Define the State/County as a Mandatory field on the Payment form."
+
+msgid "Post Code Mandatory:"
+msgstr "Post Code Mandatory:"
+
+msgid "Define the Post Code as a Mandatory field on the Payment form. This is used for the Address Verification System (AVS) check on the customers card. Recommended Setting \"Yes\"."
+msgstr "Define the Post Code as a Mandatory field on the Payment form. This is used for the Address Verification System (AVS) check on the customers card. Recommended Setting \"Yes\"."
+
+msgid "Country Mandatory:"
+msgstr "Country Mandatory:"
+
+msgid "Define the Country as a Mandatory field on the Payment form."
+msgstr "Define the Country as a Mandatory field on the Payment form."
+
+msgid "Thank you - your order is now pending payment. You should be automatically redirected to Paymentsense to make payment."
+msgstr "Thank you - your order is now pending payment. You should be automatically redirected to Paymentsense to make payment."
+
+msgid "Click here if you are not redirected within 10 seconds..."
+msgstr "Click here if you are not redirected within 10 seconds..."
+
+msgid "Cancel order &amp; restore cart"
+msgstr "Cancel order &amp; restore cart"
+
+msgid "We are now redirecting you to Paymentsense to complete your payment."
+msgstr "We are now redirecting you to Paymentsense to complete your payment."
+
+msgid "This module requires an encrypted connection. "
+msgstr "This module requires an encrypted connection. "
+
+msgid "Please enable SSL/TLS."
+msgstr "Please enable SSL/TLS."
+
+msgid "This module is not configured. Please configure gateway settings."
+msgstr "This module is not configured. Please configure gateway settings."
+
+msgid "Please check your card details and try again."
+msgstr "Please check your card details and try again."
+
+msgid "An unexpected error has occurred. "
+msgstr "An unexpected error has occurred. "
+
+msgid "Please contact Customer Support."
+msgstr "Please contact Customer Support."
+
+msgid "Refund was declined. "
+msgstr "Refund was declined. "
+
+msgid "Refund for %1$.2f %2$s processed successfully."
+msgstr "Refund for %1$.2f %2$s processed successfully."
+
+msgid "Cardholder’s Name"
+msgstr "Cardholder’s Name"
+
+msgid "Card Number"
+msgstr "Card Number"
+
+msgid "CVV/CV2 Number"
+msgstr "CVV/CV2 Number"
+
+msgid "Expiration date"
+msgstr "Expiration date"
+
+msgid "Expiration month"
+msgstr "Expiration month"
+
+msgid "Expiration year"
+msgstr "Expiration year"
+
+msgid "Month"
+msgstr "Month"
+
+msgid "Year"
+msgstr "Year"
+
+msgid "Redirecting..."
+msgstr "Redirecting..."
+
+msgid "Error message: "
+msgstr "Error message: "
+
+msgid "Unsupported Result Delivery Method."
+msgstr "Unsupported Result Delivery Method."
+
+msgid "Order ID is empty."
+msgstr "Order ID is empty."
+
+msgid "WARNING: The authenticity of the status of this transaction cannot be confirmed automatically! Please check the status at the MMS. "
+msgstr "WARNING: The authenticity of the status of this transaction cannot be confirmed automatically! Please check the status at the MMS. "
+
+msgid "Please log into your account at the MMS and check that transaction %1$s is processed with status SUCCESS and the message: %2$s. "
+msgstr "Please log into your account at the MMS and check that transaction %1$s is processed with status SUCCESS and the message: %2$s. "
+
+msgid "Once the transaction status and authentication code are confirmed set the order status to \"Processing\" and process the order normally. "
+msgstr "Once the transaction status and authentication code are confirmed set the order status to \"Processing\" and process the order normally. "
+
+msgid "Payment processed successfully. "
+msgstr "Payment processed successfully. "
+
+msgid "Payment failed due to: "
+msgstr "Payment failed due to: "
+
+msgid "Payment failed due to unknown or unsupported payment status. Payment Status: "
+msgstr "Payment failed due to unknown or unsupported payment status. Payment Status: "
+
+msgid "Payment (3DS) processed successfully. "
+msgstr "Payment (3DS) processed successfully. "
+
+msgid "Payment (3DS) failed due to: "
+msgstr "Payment (3DS) failed due to: "
+
+msgid "An error occurred while processing your payment. Payment status is unknown. Please contact support. Payment Status: "
+msgstr "An error occurred while processing your payment. Payment status is unknown. Please contact support. Payment Status: "
+
+msgid "An error occurred while processing order#%1$s. Error message: %2$s"
+msgstr "An error occurred while processing order#%1$s. Error message: %2$s"
+
+msgid "Warning: Paymentsense Gateway for WooCommerce plugin is incompatible with the following plugin(s): %s."
+msgstr "Warning: Paymentsense Gateway for WooCommerce plugin is incompatible with the following plugin(s): %s."
+
+msgid "As a result of that Paymentsense Gateway for WooCommerce is deactivated."
+msgstr "As a result of that Paymentsense Gateway for WooCommerce is deactivated."
+
+msgid "&laquo; Go Back"
+msgstr "&laquo; Go Back"
+
+msgid "Warning: WooCommerce 3.5.0 and 3.5.1 contain a bug that affects the Hosted payment method of the Paymentsense plugin. Please consider updating WooCommerce."
+msgstr "Warning: WooCommerce 3.5.0 and 3.5.1 contain a bug that affects the Hosted payment method of the Paymentsense plugin. Please consider updating WooCommerce."
+
+msgid "Troubleshooting Settings"
+msgstr "Troubleshooting Settings"
+
+msgid "Settings related to troubleshooting and diagnostics of the plugin."
+msgstr "Settings related to troubleshooting and diagnostics of the plugin."
+
+msgid "Port 4430 is NOT open on my server (safe mode with refunds disabled):"
+msgstr "Port 4430 is NOT open on my server (safe mode with refunds disabled):"
+
+msgid "In order to function normally the Paymentsense plugin performs outgoing connections to the Paymentsense gateway on port 4430 which is required to be open. In the case port 4430 on your server is closed you can still use the Paymentsense Hosted method with a limited functionality. Please note that by disabling the communication on port 4430 the online refund functionality will be disabled too. Recommended Setting \"No\". Please set to \"Yes\" only as a last resort when your server has port 4430 closed."
+msgstr "In order to function normally the Paymentsense plugin performs outgoing connections to the Paymentsense gateway on port 4430 which is required to be open. In the case port 4430 on your server is closed you can still use the Paymentsense Hosted method with a limited functionality. Please note that by disabling the communication on port 4430 the online refund functionality will be disabled too. Recommended Setting \"No\". Please set to \"Yes\" only as a last resort when your server has port 4430 closed."
+
+msgid "Allow extended information requests:"
+msgstr "Allow extended information requests:"
+
+msgid "Specifies whether requests for extended plugin information are allowed. Used for troubleshooting and diagnostics. Recommended Setting \"Yes\"."
+msgstr "Specifies whether requests for extended plugin information are allowed. Used for troubleshooting and diagnostics. Recommended Setting \"Yes\"."
+
+msgid "Payment method timeout:"
+msgstr "Payment method timeout:"
+
+msgid "Specifies the amount of time this payment method will be available since the order \"date_modified\" timestamp in seconds. Not setting a value or setting 0 is unlimited. Recommended Setting \"1800\"."
+msgstr "Specifies the amount of time this payment method will be available since the order \"date_modified\" timestamp in seconds. Not setting a value or setting 0 is unlimited. Recommended Setting \"1800\"."
+
+msgid "Sorry, the allowed time for paying this order has expired."
+msgstr "Sorry, the allowed time for paying this order has expired."
+
+msgid "Warning: The Paymentsense plugin cannot connect to the Paymentsense gateway. Please contact support providing the information below: <pre>%s</pre>"
+msgstr "Warning: The Paymentsense plugin cannot connect to the Paymentsense gateway. Please contact support providing the information below: <pre>%s</pre>"
+
+msgid "Connection to Paymentsense was successful."
+msgstr "Connection to Paymentsense was successful."
+
+msgid "FYI: The Paymentsense Hosted method is configured to run in safe mode. You can still take payments, but refunds will need to be done via the MMS."
+msgstr "FYI: The Paymentsense Hosted method is configured to run in safe mode. You can still take payments, but refunds will need to be done via the MMS."
+
+msgid "Warning: The Paymentsense plugin cannot resolve any of the Paymentsense gateway entry points. Please check your DNS resolution or contact support."
+msgstr "Warning: The Paymentsense plugin cannot resolve any of the Paymentsense gateway entry points. Please check your DNS resolution or contact support."
+
+msgid "Warning: Port 4430 seems to be closed on your server. Please open port 4430 or set the \"Port 4430 is NOT open on my server\" configuration setting to \"Yes\"."
+msgstr "Warning: Port 4430 seems to be closed on your server. Please open port 4430 or set the \"Port 4430 is NOT open on my server\" configuration setting to \"Yes\"."
+
+msgid "Warning: Port 4430 seems to be closed on your server. Paymentsense Direct can NOT be used in this case. Please use Paymentsense Hosted or open port 4430."
+msgstr "Warning: Port 4430 seems to be closed on your server. Paymentsense Direct can NOT be used in this case. Please use Paymentsense Hosted or open port 4430."
+
+msgid "It seems you already have paid for this order. In case of doubts, please contact us."
+msgstr "It seems you already have paid for this order. In case of doubts, please contact us."
+
+msgid "An unexpected callback notification has been received. This normally happens when the customer clicks on the \"Back\" button on their web browser or/and attempts to perform further payment transactions after a successful one is made."
+msgstr "An unexpected callback notification has been received. This normally happens when the customer clicks on the \"Back\" button on their web browser or/and attempts to perform further payment transactions after a successful one is made."
+
+msgid "Pending payment"
+msgstr "Pending payment"
+
+msgid "Gateway MerchantID is invalid. Please make sure the Gateway MerchantID matches the ABCDEF-1234567 format."
+msgstr "Gateway MerchantID is invalid. Please make sure the Gateway MerchantID matches the ABCDEF-1234567 format."
+
+msgid "Gateway MerchantID, Gateway Password, Gateway PreSharedKey and Gateway Hash Method are valid."
+msgstr "Gateway MerchantID, Gateway Password, Gateway PreSharedKey and Gateway Hash Method are valid."
+
+msgid "Gateway MerchantID is invalid."
+msgstr "Gateway MerchantID is invalid."
+
+msgid "Gateway PreSharedKey or/and Gateway Hash Method are invalid."
+msgstr "Gateway PreSharedKey or/and Gateway Hash Method are invalid."
+
+msgid "Gateway Password is invalid."
+msgstr "Gateway Password is invalid."
+
+msgid "Gateway Password, Gateway PreSharedKey or/and Gateway Hash Method are invalid."
+msgstr "Gateway Password, Gateway PreSharedKey or/and Gateway Hash Method are invalid."
+
+msgid "Gateway PreSharedKey and Gateway Hash Method cannot be validated at this time."
+msgstr "Gateway PreSharedKey and Gateway Hash Method cannot be validated at this time."
+
+msgid "Gateway MerchantID or/and Gateway Password are invalid."
+msgstr "Gateway MerchantID or/and Gateway Password are invalid."
+
+msgid "The gateway settings cannot be validated at this time."
+msgstr "The gateway settings cannot be validated at this time."
+
+msgid "Gateway MerchantID and Gateway Password are valid."
+msgstr "Gateway MerchantID and Gateway Password are valid."
